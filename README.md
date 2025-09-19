@@ -2,6 +2,11 @@
 
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
 
+# NICKNAME : NunesLourenço 
+# Nomes do Grupo: 
+Miguel Malaia Relego Guerreiro Nunes, nº 122707
+Ricardo Daniel Ferreira Sá Lourenço, nº 122692
+
 
 # Running the Project in Development Mode
 
